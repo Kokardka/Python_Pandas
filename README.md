@@ -15,12 +15,21 @@ It will help!
 
 The rest of my adventure (on a working Jupyter:)) later here...
 
+But something about theory.
+
 Pandas is a Python library that gives a fantastic set of tools to do data analysis.
 The name comes from “panel data” - panda.
 
-But why Python Pandas?
+And why Python Pandas?
 1. It is definately more comfortable than Excel;
 2. It can be used to working with Big Data;
 3. Pandas is a free software library written for the Python programming language
 (so if someone know and like Python it is a great option);
 4. Pandas allows importing data of various file formats, also excel.
+
+I've also tried Visual Studio Code to learn Python Pandas.
+
+Link to original source of data from Kaggle: https://www.kaggle.com/abcsds/pokemon
+(good open source Machine Learning website)
+
+![1vsc](https://user-images.githubusercontent.com/72028760/130328750-c1d253f4-4c3f-48a0-8634-d1b5dd0a13fd.jpg)
