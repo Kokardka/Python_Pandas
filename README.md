@@ -36,4 +36,6 @@ Link to original source of data from Kaggle: https://www.kaggle.com/abcsds/pokem
 
 and as I said before, Pandas also allows importing data of various file formats like excel:
 
-![2vsc](https://user-images.githubusercontent.com/72028760/130329436-95bed676-8998-4175-85cb-9d7aa8c11706.jpg)
+![2vsc](https://user-images.githubusercontent.com/72028760/130329503-e1555c89-2bf7-4e7a-82a7-3fe8675d8ac1.jpg)
+
+It is good to have dark theme if someone is working a lot, so Visual Studio Code is really nice.
