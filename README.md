@@ -33,3 +33,7 @@ Link to original source of data from Kaggle: https://www.kaggle.com/abcsds/pokem
 (good open source Machine Learning website)
 
 ![1vsc](https://user-images.githubusercontent.com/72028760/130328750-c1d253f4-4c3f-48a0-8634-d1b5dd0a13fd.jpg)
+
+and as I said before, Pandas also allows importing data of various file formats like excel:
+
+![2vsc](https://user-images.githubusercontent.com/72028760/130329436-95bed676-8998-4175-85cb-9d7aa8c11706.jpg)
