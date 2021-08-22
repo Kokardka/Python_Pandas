@@ -13,7 +13,7 @@ Try this:
 
 It will help!
 
-The rest of my adventure (on a working Jupyter:)) later here...
+The rest of my adventure (on a working Jupyter:)) below...
 
 But something about theory.
 
@@ -32,10 +32,20 @@ I've also tried Visual Studio Code to learn Python Pandas.
 Link to original source of data from Kaggle: https://www.kaggle.com/abcsds/pokemon
 (good open source Machine Learning website)
 
-![1vsc](https://user-images.githubusercontent.com/72028760/130328750-c1d253f4-4c3f-48a0-8634-d1b5dd0a13fd.jpg)
+![1vsc](https://user-images.githubusercontent.com/72028760/130350848-c601d0a0-3fff-4b14-8d84-7b78ae926187.jpg)
 
 and as I said before, Pandas also allows importing data of various file formats like excel:
 
 ![2vsc](https://user-images.githubusercontent.com/72028760/130329503-e1555c89-2bf7-4e7a-82a7-3fe8675d8ac1.jpg)
 
 It is good to have dark theme if someone is working a lot, so Visual Studio Code is really nice.
+
+Pandas also allows importing data like txt:
+
+![2vsc](https://user-images.githubusercontent.com/72028760/130350860-4cdef3c3-0ffb-4b1f-be7c-0ccab42ed2f7.jpg)
+
+Plotting data (import matplotlib.pyplot as plt) - library to work with while plotting data in Python is matplotlib:
+
+![3vsc](https://user-images.githubusercontent.com/72028760/130350874-999bb8ee-0f2f-4624-a802-590bfc8499bf.jpg)
+
+That was experiment.
