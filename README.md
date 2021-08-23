@@ -48,4 +48,7 @@ Plotting data (import matplotlib.pyplot as plt) - library to work with while plo
 
 ![3vsc](https://user-images.githubusercontent.com/72028760/130350874-999bb8ee-0f2f-4624-a802-590bfc8499bf.jpg)
 
-That was experiment.
+That was an experiment.
+
+I am doing my own short database for other tests, but it will be in the next repository.
+Here I will continue with those ones.
